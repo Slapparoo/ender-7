@@ -1,0 +1,12 @@
+*.zip
+*.bkp
+.*
+*.old.*
+printer-20[0-9]*_[0-9]*.cfg
+moonraker.asvc
+backup/
+comms/
+gcodes/
+logs/
+systemd/
+database/
