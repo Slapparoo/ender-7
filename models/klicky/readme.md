@@ -1,4 +1,4 @@
-Ender 7 Klicky Z probe 
+# Ender 7 Klicky Z probe 
 
 You will need to be running klipper (see the config files, your park position will be around 5mm further on the X than mine - I broke my X endstop and replaced it with a larger one, so I lose about 5mm on X)
 Uses 5mm by 1.5mm magnets (6), magnets are either press fit or super glued (press is better as the glue can effect the electrical contact)
